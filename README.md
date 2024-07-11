@@ -41,4 +41,4 @@ This project is licensed under the MIT License.
 - **iOS Development**: This project deepened my knowledge of iOS development, particularly in integrating third-party services like Firebase. It also enhanced my skills in using Swift and Xcode for building robust applications.
 - **Error Handling**: Implementing proper error handling for network requests and data operations was crucial. It taught me the importance of providing feedback to users and ensuring a smooth user experience.
 - **UI/UX Design**: Designing a user-friendly interface that is both functional and aesthetically pleasing was a key learning aspect. Balancing functionality with simplicity is essential for creating intuitive apps.
-- 
+  
